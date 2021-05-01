@@ -3,7 +3,7 @@
 Few things about me
 
 - 🔭 I’m currently working on Finance management application.
-- 🌱 I’m currently learning Next.js(https://nextjs.org/) and Nest.js(https://nestjs.com/)
+- 🌱 I’m currently learning [Next.js](https://nextjs.org/) and [Nest.js](https://nestjs.com/)
 
 
  ![](https://komarev.com/ghpvc/?username=kaushikabhi999)
