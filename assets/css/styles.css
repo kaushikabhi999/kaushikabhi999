@@ -72,9 +72,10 @@
     }
     
     .subtitle {
-      font-size: 12px;
+      font-size: 14px;
+      font-weight: 500;
       margin-top: 4%;
-      color: #bababc;
+      color: #acacac;
     }
 
     .logo-img {
