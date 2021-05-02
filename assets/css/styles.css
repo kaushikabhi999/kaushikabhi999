@@ -1,4 +1,4 @@
-body {
+  body {
     font-family: "IBM Plex Sans", sans-serif;
   }
   
@@ -58,4 +58,33 @@ body {
 
   .logo {
     cursor: pointer;
+  }
+  .logo-img {
+    height: 50px;
+  }
+  @media only screen and (max-width:500px) {
+      /* For mobile phones: */ 
+    .title {
+      font-size: 24px;
+      padding: 0%;
+      font-family: "Alatsi", sans-serif;
+      margin:2%;
+    }
+    
+    .subtitle {
+      font-size: 12px;
+      margin-top: 4%;
+      color: #bababc;
+    }
+
+    .logo-img {
+      height: 40px;
+    }
+  
+    #avatar {
+      height: 150px;
+      width: 150px;
+      margin: 2%;
+      border-radius: 50%;
+    }
   }
