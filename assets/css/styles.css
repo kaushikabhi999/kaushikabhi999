@@ -1,6 +1,10 @@
   body {
     font-family: "IBM Plex Sans", sans-serif;
   }
+
+  .theme-black {
+    background-color: #000;
+  }
   
   #main-content {
     height: 100%;
@@ -8,10 +12,12 @@
   }
   
   #top-info {
-    width: 100%;
-    display: block;
-    margin-top: 50px;
+    margin-top: 20px;
     text-align: center; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center;
   }
   
   .title {
@@ -22,6 +28,10 @@
     margin-left: 2%;
     margin-right: 2%;
     margin-bottom: 0%;
+  }
+
+  .title-white {
+    color: #fff;
   }
   
   .subtitle {
@@ -50,10 +60,10 @@
   }
 
   .logos {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
   }
 
   .logo {
@@ -61,6 +71,46 @@
   }
   .logo-img {
     height: 50px;
+  }
+
+  .night-label{
+	  opacity: 0.2;
+  }
+
+  .layout
+  {
+    height: 5vh;
+    margin-left: 93%;
+    margin-top: 20px;
+    padding-right: 20px;
+  }
+
+  svg
+  {	
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+  }
+  
+  #night-content
+  {
+    opacity: 0.5;
+  }
+  
+  .inner-shadow
+  {
+    stroke-opacity: 0.1;
+    stroke-width: 5;
+    stroke: black;
+    fill: none;
+  }
+  
+  .container input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
   }
   @media only screen and (max-width:500px) {
       /* For mobile phones: */ 
@@ -87,5 +137,12 @@
       width: 150px;
       margin: 2%;
       border-radius: 50%;
+    }
+
+    .layout
+    {
+      height: 4vh;
+      margin-left: 80%;
+      padding-right: 20px;
     }
   }
