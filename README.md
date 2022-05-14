@@ -2,9 +2,9 @@
 
 Few things about me
 
-- 🔭 I’m currently working on Finance management application.
-- 🌱 I’m currently learning [Next.js](https://nextjs.org/) and [Nest.js](https://nestjs.com/)
-
+- 🔭 I’m currently working on Bpost application of Belgium Post Group.
+- 🌱 I’m currently working with TCS in associated with Tata Group of Companies.
+- 📫 Reach me here 👉 [kaushikabhi999](https://kaushikabhi999.github.io/kaushikabhi999/)
 
  ![](https://komarev.com/ghpvc/?username=kaushikabhi999)
 
