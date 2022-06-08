@@ -1,4 +1,7 @@
-# Hi there 👋
+# Hi 👋, I'm Amit Kaushik
+
+AWS Full Stack Developer
+![](https://komarev.com/ghpvc/?username=kaushikabhi999)
 
 Few things about me
 
@@ -6,7 +9,6 @@ Few things about me
 - 🌱 I’m currently working with TCS in associated with Tata Group of Companies.
 - 📫 Reach me here 👉 [kaushikabhi999](https://kaushikabhi999.github.io/kaushikabhi999/)
 
- ![](https://komarev.com/ghpvc/?username=kaushikabhi999)
 
 
 <!--
