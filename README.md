@@ -8,7 +8,6 @@
 Few things about me
 
 - 🔭 I’m currently working on Bpost application of Belgium Post Group.
-- 🌱 I’m currently working with TCS in associated with Tata Group of Companies.
 - 💬 Ask me about Node.Js, React Native, React.js, DynamoDB, MySQL and AWS
 - 📫 Reach me here 👉 [kaushikabhi999](https://kaushikabhi999.github.io/kaushikabhi999/)
 
