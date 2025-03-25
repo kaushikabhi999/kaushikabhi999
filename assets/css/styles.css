@@ -45,6 +45,7 @@ body {
   width: 200px;
   margin: 2%;
   border-radius: 50%;
+  object-fit: cover;
 }
 
 #tcs {
@@ -137,6 +138,7 @@ svg {
     width: 150px;
     margin: 2%;
     border-radius: 50%;
+    object-fit: cover;
   }
 
   .layout {
