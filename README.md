@@ -7,7 +7,7 @@
 
 Few things about me
 
-- 🔭 I’m currently working on Bpost application of Belgium Post Group.
+- 🔭 I’m currently working on [One18](https://one.news18.com) with Network18 Group.
 - 💬 Ask me about Node.Js, React Native, React.js, DynamoDB, MySQL and AWS
 - 📫 Reach me here 👉 [kaushikabhi999](https://kaushikabhi999.github.io/kaushikabhi999/)
 
